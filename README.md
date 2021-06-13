@@ -10,7 +10,7 @@
 * Email - [1038790@gmail.com](1038790@gmail.com)
 
 <!--
-**hellochick/hellochick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KaiChen1008/KaiChen1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 -->
 
 ### Stats ⚡
-![](https://github-readme-stats.vercel.app/api?username=KaiChen1008&show_icons=true&count_private=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=KaiChen1008&show_icons=true&hide=contribs&theme=radical)
