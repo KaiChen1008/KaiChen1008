@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 -->
 
 ### Stats ⚡
-![](https://github-readme-stats.vercel.app/api?username=KaiChen1008&show_icons=true&hide=contribs&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=KaiChen1008&show_icons=true&count_private=true&theme=radical)
