@@ -2,7 +2,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKaiChen1008&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKaiChen1008%2FSim-to-Real-Virtual-Guidance-for-Robot-Navigation&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Sim-to-Real&edge_flat=false)](https://hits.seeyoufarm.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.hackster.io%2Fdo-you-wanna-build-a-snowman%2Fsim-to-real-virtual-guidance-for-robot-navigation-71e54a&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Vison-Based&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-- 🔭  I’m currently a naster student in National Taiwan University.
+- 🔭  I’m currently a master student in National Taiwan University.
 - 🚀  I'm interested in federated learning (FL) and machine learning security, especially in robust machine learning model.
 - 📫  I'm seeking the opportunity of research | applied scientist. 
 
