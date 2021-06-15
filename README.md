@@ -8,7 +8,7 @@
 
 ### Get in touch ☕
 * Linkedin - [Kai-Chen Lin](www.linkedin.com/in/kaichen-lin-430b0a168)
-* Email - 📮[1038790@gmail.com](1038790@gmail.com) 📮[r09922086@ntu.edu.tw](r09922086@ntu.edu.tw)
+* Email - 📮 [1038790@gmail.com](1038790@gmail.com) 📮 [r09922086@ntu.edu.tw](r09922086@ntu.edu.tw)
 
 
 ### Stats ⚡️
