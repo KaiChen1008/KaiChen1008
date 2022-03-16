@@ -4,7 +4,6 @@
 
 - 🔭   I’m currently a master student in National Taiwan University.
 - 🚀   I'm interested in federated learning (FL) and machine learning security, especially in robust machine learning model.
-- 📫   I'm seeking the opportunity of research | applied scientist. 
 
 ### Get in touch ☕
 * Linkedin - [Kai-Chen Lin](www.linkedin.com/in/kaichen-lin-430b0a168)
