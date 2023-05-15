@@ -11,4 +11,17 @@
 
 
 ### Stats ⚡️
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=KaiChen1008&show_icons=true&hide=contribs&theme=radical)
+<!-- ![Ken's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KaiChen1008&show_icons=true&hide=contribs&theme=dracula) -->
+
+<picture>
+<source
+  srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=KaiChen1008&show_icons=true&theme=dracula"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=KaiChen1008&show_icons=true&bg_color=00000000"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KaiChen1008&show_icons=true" />
+</picture>
+
