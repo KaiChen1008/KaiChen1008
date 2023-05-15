@@ -19,7 +19,7 @@
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=KaiChen1008&show_icons=true&theme=Gradient"
+  srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=KaiChen1008&show_icons=true&theme=gradient"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KaiChen1008&show_icons=true" />
