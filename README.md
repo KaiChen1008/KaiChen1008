@@ -3,11 +3,11 @@
 
 
 - 🔭   I’m currently a master student in National Taiwan University.
-- 🚀   I'm interested in federated learning (FL) and machine learning security, especially in robust machine learning model.
+- 🚀   My interested topic includes federated learning (FL) and machine learning security, especially robust machine learning model.
 
 ### Get in touch ☕
 * Linkedin - [Kai-Chen Lin](www.linkedin.com/in/kaichen-lin-430b0a168)
-* Email - 📮 [1038790@gmail.com](1038790@gmail.com) 📮 [r09922086@ntu.edu.tw](r09922086@ntu.edu.tw)
+* Email - 📮 [1038790@gmail.com](1038790@gmail.com) 📮 [r09922086@ntu.edu.tw](r09922086@ntu.edu.tw) 📮 [dppa1008@elsa.cs.nthu.edu.tw](dppa1008@elsa.cs.nthu.edu.tw)  
 
 
 ### Stats ⚡️
