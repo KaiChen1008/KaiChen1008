@@ -25,3 +25,18 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KaiChen1008&show_icons=true" />
 </picture>
 
+
+<!-- <picture>
+<source
+  srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=KaiChen1008&show_icons=true&theme=dracula"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=KaiChen1008&show_icons=true&bg_color=00000000"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KaiChen1008&show_icons=true" />
+</picture> -->
+
+
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KaiChen1008&repo=Sim-to-Real-Virtual-Guidance-for-Robot-Navigation)](https://github.com/KaiChen1008/Sim-to-Real-Virtual-Guidance-for-Robot-Navigation)
