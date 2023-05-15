@@ -27,4 +27,4 @@
 
 
 
- ![ken's Github Stats](https://github-readme-stats.vercel.app/api?username=KaiChen1008&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+ ![ken's Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KaiChen1008&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
