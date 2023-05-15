@@ -31,3 +31,16 @@
 
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KaiChen1008&size_weight=0.5&count_weight=0.5)](https://github.com/KaiChen1008)
+
+
+<picture>
+<source
+  srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KaiChen1008&size_weight=0.5&count_weight=0.5&theme=dracula"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KaiChen1008&size_weight=0.5&count_weight=0.5&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KaiChen1008&size_weight=0.5&count_weight=0.5" />
+</picture>
