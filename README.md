@@ -22,7 +22,7 @@
   srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=KaiChen1008&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KaiChen1008&show_icons=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KaiChen1008&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true" />
 </picture>
 
 
