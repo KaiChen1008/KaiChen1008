@@ -28,3 +28,6 @@
 
 
  ![ken's Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KaiChen1008&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)
+
+
+![Top Langs](https://github-readme-stats-stats-sigma-five.vercel.app/api/top-langs/?username=KaiChen1008&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/KaiChen1008)
