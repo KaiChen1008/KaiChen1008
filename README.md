@@ -1,6 +1,5 @@
 ### Hi there, I'm Ken  👋
-
-- 🔭   I’m currently a master student in National Taiwan University.
+- 🔭   I was a master student in National Taiwan University.
 - 🚀   My interested topic includes federated learning (FL) and machine learning security, especially robust machine learning model.
 
 ### Get in touch ☕
